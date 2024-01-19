@@ -4,7 +4,7 @@
 
 ## File Description
 
-- **Property Valuation Calculator**: This Excel file is a comprehensive tool designed to estimate the value of properties based on various criteria. Users can input specific data, and the calculator will provide an estimated property value. It's an invaluable tool for investors, real estate professionals, and individuals looking to buy or sell property.
+- **Property Valuation Calculator**: This repository contains a comprehensive Property Valuation Calculator designed to estimate the value of properties based on various criteria. The calculator is equipped with an **extensive data table** that serves as a quick reference for property per door value across **55 rental rates** and **15 cap rates**.
 
 ## Features
 - **Property / Per Door**: Adjust these parameters for a complete property value or a per door value.
